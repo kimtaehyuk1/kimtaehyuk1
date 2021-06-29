@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TAE-HYUK-KIM</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on [WonderPlace](https://github.com/kimtaehyuk1/WonderPlace)
+- 🔭 I’m currently working on [Game](https://github.com/kimtaehyuk1/WonderPlace)
 
 - 🌱 I’m currently learning **Android Studio & Python**
 
