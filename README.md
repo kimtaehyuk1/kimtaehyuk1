@@ -1,7 +1,11 @@
 ### ✨ Hi there ✨
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=header&text=Hi!%20I'm%20TaeHyuk&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=header&text=Hi!%20I'm%20TaeHyuk&animation=fadeIn&fontColor=363636&stroke=00FF00&fontSize=100)
+
+
+
+
 
 <!--
 **kimtaehyuk1/kimtaehyuk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
