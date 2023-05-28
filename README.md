@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on .. Sk rookies
 - 🌱 I’m currently learning .. AI(Data_analysis,ML,DL) & Cloud_Infra(AWS,Docker,Kubernetes..)
 - 🌡 My Tech notes .. https://drive.google.com/drive/u/0/folders/1KcxR0unCVjEwhNThGD34TzXqxjFk-mPw
-- 🐸 Certificate .. SAA, CLF, 네트워크관리사2급
+- 🐸 Certificate .. SAA, CLF, 정보처리기사, 네트워크관리사2급
 
 |SAA|CLF|
 |:-:|:-:|
