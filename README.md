@@ -11,7 +11,7 @@
 
 |2023 제4회 K-디지털 해커톤 대회 최우수상(장관상)|Sk rookies 아이디어 해커톤 대상|
 |:-:|:-:|
-|<img src="https://github.com/kimtaehyuk1/Cloud_AI_SK-rookies/assets/67897827/d0cc8cf9-b343-4cb3-9c54-aa039f920fff.PNG" width="700" height="500"/>|<img src="https://github.com/kimtaehyuk1/Cloud_AI_SK-rookies/assets/67897827/cb19969a-581d-422d-a50e-5ef0508d205a.PNG" width="700" height="500"/>| 
+|<img src="https://github.com/kimtaehyuk1/Cloud_AI_SK-rookies/assets/67897827/d0cc8cf9-b343-4cb3-9c54-aa039f920fff.PNG" width="700" height="400"/>|<img src="https://github.com/kimtaehyuk1/Cloud_AI_SK-rookies/assets/67897827/cb19969a-581d-422d-a50e-5ef0508d205a.PNG" width="700" height="400"/>| 
 
 
 |SAA|CLF|
