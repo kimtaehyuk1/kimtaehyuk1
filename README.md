@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=header&text=Hi!%20I'm%20TaeHyuk&animation=fadeIn&fontColor=363636&stroke=00FF00&fontSize=100)
 
 - 🔭 SK 루키즈 11기 클라우드_AI 교육 수료 (공부내용: https://drive.google.com/drive/u/0/folders/1KcxR0unCVjEwhNThGD34TzXqxjFk-mPw)
-- 🌱 I’m currently interesting .. Cloud engineering & Data engineering
+- 🌱 I’m currently interesting .. Infra engineer
 - 🐸 Certificate .. Solution Architecture(AWS), 정보처리기사, 네트워크관리사2급, 한국사검정능력1급
 
 -------------------------------------------------------
